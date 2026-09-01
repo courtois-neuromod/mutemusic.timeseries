@@ -1,0 +1,1 @@
+b7ff96c4-a355-426a-84f2-b861e29c5abb autoenable=true bucket=cneuromod.mutemusic.timeseries chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.mutemusic.timeseries port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1788293222s
